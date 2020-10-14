@@ -1,3 +1,8 @@
+### Currency Converter 
+Concepts covered: useEffect, useState, two way data binding, using an API, differences between state and props 
+
+### Below this line is defaulted description 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
