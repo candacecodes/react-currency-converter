@@ -5,6 +5,8 @@ body {
 	align-items: center;
 	min-height: 100vh;
 	text-align: center;
+	color: black;
+	background-color: lightgray;
 }
 
 h1 {
